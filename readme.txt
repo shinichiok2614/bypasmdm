@@ -10,3 +10,5 @@ xattr -cr [khoảng trắng]
 
 check file hosts
 sudo nano /private/etc/host
+
+sudo profiles show -type enrollment
